@@ -1,0 +1,43 @@
+/* FeedbackApp.css */
+.feedback-app {
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+  font-family: sans-serif;
+}
+
+.feedback-form textarea,
+.feedback-form select,
+.feedback-form input,
+.feedback-form button {
+  display: block;
+  width: 100%;
+  margin: 10px 0;
+  padding: 8px;
+}
+
+.feedback-card {
+  border: 1px solid #ccc;
+  padding: 12px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+  background: #f9f9f9;
+}
+
+.screenshot-img {
+  max-width: 300px;
+  margin-top: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.admin-actions button {
+  margin-right: 10px;
+}
+
+.summary-box {
+  background: #fff8dc;
+  padding: 10px;
+  border-left: 4px solid #ffa500;
+  margin-top: 10px;
+}
