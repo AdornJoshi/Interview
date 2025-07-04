@@ -29,7 +29,7 @@ Backend:
 
 AI/NLP:
 - Sentiment analysis via keyword matching  
-- Summarization using TextRank (sumy)
+- Summarization using OpenAI
 
 
 📌 Admin Credentials
