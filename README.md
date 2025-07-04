@@ -9,7 +9,6 @@ A full-stack web application to collect user feedback with sentiment analysis, s
 - ✍️ Submit Feedback with Category
 - 😊 Sentiment Analysis (Positive/Neutral/Negative)
 - 🖼️ Screenshot Upload with Feedback
-- 🧠 AI-based Feedback Summarization (Admin only)
 - 📊 Feedback Statistics (by category and sentiment)
 - 📁 Export Feedback (CSV & JSON)
 - 🧹 Admin can delete feedback
